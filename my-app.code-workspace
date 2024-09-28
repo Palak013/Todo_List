@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Users/User/Downloads/python"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
